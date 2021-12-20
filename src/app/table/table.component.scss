@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row; 
+}
+
+.item1 {
+    align-self: flex-start;
+    margin: 20px;
+}
+
+.item2 {
+    align-self: flex-end;
+    margin: 20px;
+}
